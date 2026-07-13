@@ -2,7 +2,7 @@
 
 # AI Models
 
-<img src="https://img.shields.io/badge/APIs-7,209-blue?style=for-the-badge&logo=api" alt="Total APIs">
+<img src="https://img.shields.io/badge/APIs-7,210-blue?style=for-the-badge&logo=api" alt="Total APIs">
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <p align="right"><a href="../">Back to Home</a></p>
 
-**7,209 APIs in this category**
+**7,210 APIs in this category**
 
 | API Name | Description | Rating | Total Users |
 |----------|-------------|--------|-------------|
@@ -1025,9 +1025,11 @@
 | [AI Agent Tool Firewall](https://apify.com/zentrafoundry/zentra-agentops-tool-firewall?fpr=data) | Allow, deny, redact, or require review for AI-agent tool calls. | 0.00 | 2 |
 | [UK Case Law Scraper — BAILII Alternative, Judgments API](https://apify.com/nomad-agent/uk-case-law-scraper?fpr=data) | The only UK case-law actor with structured court, party, judge, date and citation filters. Search judgments and tribunal decisions from The National Archives' Find Case Law (the official BAILII alt... | 0.00 | 2 |
 | [Does AI Choose You? — AI Visibility Audit](https://apify.com/nativefoundation-inc/daci-actor?fpr=data) | AI visibility audit — submit a URL, get a JSON report showing how 8 AI models (GPT, Claude, Gemini, Perplexity, DeepSeek) perceive your brand. Buyer-journey framework, 7-dimension scoring, action p... | 0.00 | 2 |
+| [Empire Yachting ProductInfo Scraper](https://apify.com/getdataforme/empire-yachting-productInfo-scraper?fpr=data) | The Empire Yachting ProductInfo Scraper is a powerful web scraping tool that extracts detailed yacht listing data from Empire Yachting's website. It provides comprehensive product information inclu... | 0.00 | 2 |
 | [MCP Connector Policy Linter](https://apify.com/zentrafoundry/zentra-mcp-connector-policy-linter?fpr=data) | Audit MCP tool manifests and generate least-privilege policy guidance. | 0.00 | 1 |
 | [Substack Newsletter Scraper & Author Extractor](https://apify.com/pure_matai/substack-newsletter-scraper?fpr=data) | Paste Substack URLs to extract structured newsletter data. Export posts, author profiles, and publication details to CSV, Excel, JSON, or XML. Process  1,000 posts for $0.50. No coding or browser n... | 0.00 | 2 |
 | [AI Job Search Agent — No API Key Needed](https://apify.com/nomad-agent/ai-job-search-agent?fpr=data) | AI agent that scans the open web for job postings beyond any single job board — no API key required, the AI is included. Returns an LLM match score with reasoning, salary, and HTTP-verified live li... | N/A | 1 |
+| [Decatur Product Urls Scraper](https://apify.com/getdataforme/decatur-product-urls-mp-scraper?fpr=data) | The Decatur Product Urls Scraper efficiently extracts Craigslist listings from Decatur, providing high-quality data for market insights and competitive analysis. Customize searches, handle large da... | N/A | 1 |
 | [OBD-II DTC Code Decoder & Repair Cost Lookup](https://apify.com/dataengineered/obd2-dtc-code-repair-lookup?fpr=data) | Decode check-engine trouble codes (SAE + OEM codes for 32 makes) into ranked repair plans: likely fixes with DIY difficulty, parts-cost ranges, labor hours, and step-by-step instructions. Powered b... | N/A | 2 |
 | [Hotels.com Reviews Scraper 🏨 Ratings, Text & Sentiment](https://apify.com/factden/hotels-com-reviews-scraper?fpr=data) | Scrape Hotels.com hotel reviews at scale - guest ratings, full review text, sub-ratings, stay dates, traveler type, language & owner responses, plus LLM-ready markdown. Also accepts Expedia, Travel... | N/A | 1 |
 | [Cheapest Linkedin Job Scrapper](https://apify.com/claygenius/cheapest-linkedin-job-scrapper?fpr=data) | Scrape public LinkedIn job search results by keyword/location or search URL. Includes job description, criteria, and company info — no login required. | 0.00 | 2 |
@@ -5440,7 +5442,6 @@
 | [Commit Historian Agent](https://apify.com/josef.prochazka/commit-historian-agent?fpr=data) | Simple tool to help analyze Github repository commits. It checkouts the repository and get all relevant commit messages. It uses OpenAI to answer questions asked by the user. This is done through P... | 0.00 | 2 |
 | [Zillow Sold Listings with Criteria](https://apify.com/signaliz/zillow-sold-listings-with-criteria?fpr=data) | Get Active Sold Listings with pagination. Up to 50 | 0.00 | 2 |
 | [WorkInSports Scraper](https://apify.com/lexis-solutions/workinsports-scraper?fpr=data) | WorkInSports Scraper: collect structured sports job listings from WorkInSports, including titles, companies, locations, salaries, benefits and requirements for recruitment analytics, market researc... | 0.00 | 2 |
-| [Empire Yachting ProductInfo Scraper](https://apify.com/getdataforme/empire-yachting-productInfo-scraper?fpr=data) | The Empire Yachting ProductInfo Scraper is a powerful web scraping tool that extracts detailed yacht listing data from Empire Yachting's website. It provides comprehensive product information inclu... | 0.00 | 2 |
 | [Project Gutenberg Ebook Scraper (Gutendex)](https://apify.com/jungle_synthesizer/gutenberg-gutendex-public-domain-ebook-scraper?fpr=data) | Scrape the full Project Gutenberg catalog via the Gutendex JSON API. Filter by search, language, subject, author era, and download count. Returns EPUB, Kindle, plain-text, and HTML download URLs — ... | 0.00 | 2 |
 | [hashtag for cookie](https://apify.com/fastcrawler/hashtag-for-cookie?fpr=data) | N/A | 0.00 | 2 |
 | [Grove Product Reviews Scraper](https://apify.com/getdataforme/grove-product-reviews-scraper?fpr=data) | Grove Product Reviews Scraper is an Apify Actor that extracts customer reviews from specified Grove product pages. It retrieves ratings, text, titles, timestamps, photos, and metadata, delivering s... | 0.00 | 2 |

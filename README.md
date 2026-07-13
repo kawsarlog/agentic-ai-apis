@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/agentic-ai-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/agentic-ai-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/agentic-ai-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/agentic-ai-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/agentic-ai-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/agentic-ai-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-11,038-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-11,039-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,13 +21,13 @@
 
 ## At a Glance
 
-> **11,038 production-ready APIs** — production-ready APIs across Agents, AI Models, and MCP Servers.
+> **11,039 production-ready APIs** — production-ready APIs across Agents, AI Models, and MCP Servers.
 
 The layers that actually matter when you build autonomous systems: agents that act, models that reason, and MCP servers that connect assistants to real tools. Everything here is production-ready, rated, and refreshed daily — so you shortlist in minutes, not hours.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **11,038** |
+| **Total APIs** | **11,039** |
 | **Categories** | 3 |
 | **Last updated** | 2026-07-13 |
 | **Update cadence** | Daily, automated |
@@ -44,7 +44,7 @@ The layers that actually matter when you build autonomous systems: agents that a
     </td>
     <td width="33%" valign="top">
       <h3>AI Models</h3>
-      <p><strong>7,209 APIs</strong></p>
+      <p><strong>7,210 APIs</strong></p>
       <p>Reasoning, generation, extraction, and analysis as a reusable service layer.</p>
       <p><a href="./AI/"><strong>Open AI Models &rarr;</strong></a></p>
     </td>
@@ -76,7 +76,7 @@ Execution, orchestration, and autonomous task handling — the APIs closest to a
 </details>
 
 <details>
-<summary><strong>AI Models — 7,209 APIs</strong></summary>
+<summary><strong>AI Models — 7,210 APIs</strong></summary>
 
 Reasoning, generation, extraction, and analysis as a reusable service layer.
 
@@ -125,7 +125,7 @@ Model Context Protocol integrations that give assistants real tools and data.
 
 <div align="center">
 
-**11,038 APIs** across **3 categories** — updated 2026-07-13
+**11,039 APIs** across **3 categories** — updated 2026-07-13
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
