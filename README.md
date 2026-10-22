@@ -7,7 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/kawsarlog/agentic-ai-apis?style=for-the-badge&color=8b5cf6)](https://github.com/kawsarlog/agentic-ai-apis/stargazers)
 [![Forks](https://img.shields.io/github/forks/kawsarlog/agentic-ai-apis?style=for-the-badge&color=ec4899)](https://github.com/kawsarlog/agentic-ai-apis/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/kawsarlog/agentic-ai-apis?style=for-the-badge&color=a78bfa)](https://github.com/kawsarlog/agentic-ai-apis/commits/main)
-[![APIs](https://img.shields.io/badge/APIs-11,675-fbbf24?style=for-the-badge)](#)
+[![APIs](https://img.shields.io/badge/APIs-19,350-fbbf24?style=for-the-badge)](#)
 
 <p>
   <a href="#at-a-glance"><b>At a Glance</b></a> &nbsp;•&nbsp;
@@ -21,15 +21,15 @@
 
 ## At a Glance
 
-> **11,675** production-ready APIs across Agents, AI Models, and MCP Servers.
+> **19,350** production-ready APIs across Agents, AI Models, and MCP Servers.
 
 The layers that actually matter when you build autonomous systems: agents that act, models that reason, and MCP servers that connect assistants to real tools. Everything here is production-ready, rated, and refreshed daily — so you shortlist in minutes, not hours.
 
 | Metric | Value |
 |--------|-------|
-| **Total APIs** | **11,675** |
+| **Total APIs** | **19,350** |
 | **Categories** | 3 |
-| **Last updated** | 2026-07-25 |
+| **Last updated** | 2026-10-22 |
 | **Update cadence** | Daily, automated |
 
 ## The Categories
@@ -38,19 +38,19 @@ The layers that actually matter when you build autonomous systems: agents that a
   <tr>
     <td width="33%" valign="top">
       <h3>Agents</h3>
-      <p><strong>2,902 APIs</strong></p>
+      <p><strong>4,144 APIs</strong></p>
       <p>Execution, orchestration, and autonomous task handling — the APIs closest to action.</p>
       <p><a href="./Agents/"><strong>Open Agents &rarr;</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <h3>AI Models</h3>
-      <p><strong>7,476 APIs</strong></p>
+      <p><strong>12,248 APIs</strong></p>
       <p>Reasoning, generation, extraction, and analysis as a reusable service layer.</p>
       <p><a href="./AI/"><strong>Open AI Models &rarr;</strong></a></p>
     </td>
     <td width="33%" valign="top">
       <h3>MCP Servers</h3>
-      <p><strong>1,297 APIs</strong></p>
+      <p><strong>2,958 APIs</strong></p>
       <p>Model Context Protocol integrations that give assistants real tools and data.</p>
       <p><a href="./MCP_servers/"><strong>Open MCP Servers &rarr;</strong></a></p>
     </td>
@@ -67,7 +67,7 @@ The layers that actually matter when you build autonomous systems: agents that a
 ## Explore the Stack
 
 <details open>
-<summary><strong>Agents — 2,902 APIs</strong></summary>
+<summary><strong>Agents — 4,144 APIs</strong></summary>
 
 Execution, orchestration, and autonomous task handling — the APIs closest to action.
 
@@ -76,7 +76,7 @@ Execution, orchestration, and autonomous task handling — the APIs closest to a
 </details>
 
 <details>
-<summary><strong>AI Models — 7,476 APIs</strong></summary>
+<summary><strong>AI Models — 12,248 APIs</strong></summary>
 
 Reasoning, generation, extraction, and analysis as a reusable service layer.
 
@@ -85,7 +85,7 @@ Reasoning, generation, extraction, and analysis as a reusable service layer.
 </details>
 
 <details>
-<summary><strong>MCP Servers — 1,297 APIs</strong></summary>
+<summary><strong>MCP Servers — 2,958 APIs</strong></summary>
 
 Model Context Protocol integrations that give assistants real tools and data.
 
@@ -121,7 +121,7 @@ Model Context Protocol integrations that give assistants real tools and data.
 
 <div align="center">
 
-**11,675 APIs** across **3 categories** — updated 2026-07-25
+**19,350 APIs** across **3 categories** — updated 2026-10-22
 <br /><sub>If this saved you time, a star helps others find it.</sub>
 
 </div>
